@@ -1,0 +1,31 @@
+body{
+    background-color: lightgray;
+    margin: 10px;
+}
+h1{
+    font-size: 26px;
+    color: darkgreen;
+}
+
+
+.highlight {
+   padding: 5px;
+}
+
+
+#main-title {
+    color: purple;
+}
+
+
+a:hover {
+    background-color: white
+}
+
+
+p {
+ margin: 16px 0;
+ line-height: 1.7;
+ background-color: none;
+ color: none;
+}
